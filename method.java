@@ -7,7 +7,7 @@ public class method {
     public static void main(String[] args) {
         int result = add(5);
         System.out.println("The sum is: " );
-    }
+    } 
     
 }
  

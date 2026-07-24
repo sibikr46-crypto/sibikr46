@@ -1,7 +1,7 @@
-public class equillibrium {
+ public class equillibrium {
     public static void main(String[] args) {
         int[] arr = {1,3,5,2,2};
-        int totalSum = 0;
+        int totalSum = 0; 
         for (int num : arr) {
             totalSum += num;
         }
@@ -24,6 +24,6 @@ public class equillibrium {
         if (!foundEquilibrium) {
             System.out.println("No equilibrium index found.");
         }
-    }
+    } 
     
 }
